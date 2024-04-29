@@ -1,0 +1,7 @@
+Creare un menù con scorrimento,  sia in modalità desktop che in modalità mobile.
+Senza l'utilizzo di framework.
+il menù dovrà contenere:
+about
+portfolio
+shop
+contacts
